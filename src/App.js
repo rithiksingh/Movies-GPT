@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-     hello world! lets build netflix gpt
+     <div className="text-xl font-bold text-green-400">hello world!</div>
     </div>
   );
 }
